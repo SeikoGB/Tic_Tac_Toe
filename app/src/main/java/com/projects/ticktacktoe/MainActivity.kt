@@ -184,7 +184,9 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
          restart.visibility=View.VISIBLE
             winner.visibility=View.VISIBLE
             winner.text="TIE"
+            click=0
         }
+
     }
 
 
